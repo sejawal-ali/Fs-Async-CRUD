@@ -1,0 +1,11 @@
+{
+  "name": "fs-async-crud",
+  "version": "1.0.0",
+  "description": "FS Async Crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SEJAWAL",
+  "license": "ISC"
+}
